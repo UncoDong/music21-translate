@@ -12,7 +12,7 @@
 - [用户指南，第3章：音高，持续时间和音符](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第3章-音高和持续时间和歌词.ipynb)
 - [用户指南，第4章：列表，流（I）和输出](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第4章-列表，流(1)和输出.ipynb)
 - 用户指南，第5章：列表，函数和递归列表
-- [用户指南，第6章：流（II）：层次结构，递归和展平](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第6章-流(2) 层次结构，递归，和展开.ipynb)
+- [用户指南，第6章：流（II）：层次结构，递归和展平](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第6章-流(2)层次结构,递归,和展开.ipynb)
 - [用户指南，第7章：和弦](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第7章-和弦.ipynb)
 - [用户指南，第8章：读取MusicXML文件格式（1）](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第8章-读取musicXML文件格式.ipynb)
 - [用户指南，第9章：协调](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第9章-Chordify.ipynb)
