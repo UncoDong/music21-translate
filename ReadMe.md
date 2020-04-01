@@ -7,7 +7,7 @@
 [原文地址](https://web.mit.edu/music21/doc/usersGuide/index.html)
 
 - 用户指南：目录
-- [用户指南，第1章：安装和入门 music21](https://github.com/UncoDong/music21-translate/第1章-基础入门music21.ipynb)
+- [用户指南，第1章：安装和入门 music21](https://github.com/UncoDong/music21-translate/用户文档/第1章-基础入门music21.ipynb)
 - 用户指南，第2章：注释
 - 用户指南，第3章：音高，持续时间和音符
 - 用户指南，第4章：列表，流（I）和输出
