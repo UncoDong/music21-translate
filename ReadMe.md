@@ -6,18 +6,18 @@
 
 [原文地址](https://web.mit.edu/music21/doc/usersGuide/index.html)
 
-- 用户指南：目录
+- [用户指南：环境配置](https://github.com/UncoDong/music21-translate/blob/master/用户文档/music21环境配置.ipynb)
 - [用户指南，第1章：安装和入门 music21](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第1章-基础入门music21.ipynb)
-- 用户指南，第2章：注释
-- 用户指南，第3章：音高，持续时间和音符
-- 用户指南，第4章：列表，流（I）和输出
+- [用户指南，第2章：注释](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第2章-Notes.ipynb)
+- [用户指南，第3章：音高，持续时间和音符](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第3章-音高和持续时间和歌词.ipynb)
+- [用户指南，第4章：列表，流（I）和输出](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第4章-列表，流(1)和输出.ipynb)
 - 用户指南，第5章：列表，函数和递归列表
-- 用户指南，第6章：流（II）：层次结构，递归和展平
-- 用户指南，第7章：和弦
-- 用户指南，第8章：安装MusicXML阅读器和文件格式（1）
-- 用户指南，第9章：协调
-- 用户指南，第10章：示例1
-- 用户指南，第11章：语料库搜索
+- [用户指南，第6章：流（II）：层次结构，递归和展平](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第6章-流(2) 层次结构，递归，和展开.ipynb)
+- [用户指南，第7章：和弦](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第7章-和弦.ipynb)
+- [用户指南，第8章：读取MusicXML文件格式（1）](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第8章-读取musicXML文件格式.ipynb)
+- [用户指南，第9章：协调](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第9章-Chordify.ipynb)
+- [用户指南，第10章：示例1](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第10章-示例.ipynb)
+- [用户指南，第11章：语料库搜索](https://github.com/UncoDong/music21-translate/blob/master/用户文档/第11章-语料库搜索.ipynb)
 - 用户指南，第12章：基本介绍：Music21Object
 - 用户指南，第13章：更多Music21Object属性和属性
 - 用户指南：第14章：时间签名和节拍
